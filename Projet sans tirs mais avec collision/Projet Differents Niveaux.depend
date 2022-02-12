@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1556039432 source:c:\users\drago\desktop\informatique\projet allegro tirs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1556143568 source:c:\users\alexandre bontemps\downloads\projet differents niveaux\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1556220798 source:c:\users\alexandre bontemps\downloads\projet differents niveaux avec ennemi\main.c
+	"jeu.h"
+
+1556220797 source:c:\users\alexandre bontemps\downloads\projet differents niveaux avec ennemi\ennemi.c
+	"jeu.h"
+
+1556220877 c:\users\alexandre bontemps\downloads\projet differents niveaux avec ennemi\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1556220798 source:c:\users\alexandre bontemps\downloads\projet differents niveaux avec ennemi\jeu.c
+	"jeu.h"
+
+1556220798 source:c:\users\alexandre bontemps\downloads\projet differents niveaux avec ennemi\menu.c
+	"jeu.h"
+
+1556220798 source:c:\users\alexandre bontemps\downloads\projet differents niveaux avec ennemi\tir.c
+	"jeu.h"
+
+1556220798 source:c:\users\alexandre bontemps\downloads\projet differents niveaux avec ennemi\vaisseau.c
+	"jeu.h"
+
+1556220800 source:c:\users\drago\desktop\informatique\projet differents niveaux avec ennemi\main.c
+	"jeu.h"
+
+1556222251 c:\users\drago\desktop\informatique\projet differents niveaux avec ennemi\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1556220800 source:c:\users\drago\desktop\informatique\projet differents niveaux avec ennemi\tir.c
+	"jeu.h"
+
+1556222161 source:c:\users\drago\desktop\informatique\projet differents niveaux avec ennemi\ennemi.c
+	"jeu.h"
+
+1556222472 source:c:\users\drago\desktop\informatique\projet differents niveaux avec ennemi\jeu.c
+	"jeu.h"
+
+1556220800 source:c:\users\drago\desktop\informatique\projet differents niveaux avec ennemi\vaisseau.c
+	"jeu.h"
+
+1556220800 source:c:\users\drago\desktop\informatique\projet differents niveaux avec ennemi\menu.c
+	"jeu.h"
+
+1556222161 source:c:\users\drago\desktop\informatique\projet final\ennemi.c
+	"jeu.h"
+
+1557152135 c:\users\drago\desktop\informatique\projet final\jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+
+1557151906 source:c:\users\drago\desktop\informatique\projet final\jeu.c
+	"jeu.h"
+
+1556220800 source:c:\users\drago\desktop\informatique\projet final\main.c
+	"jeu.h"
+
+1556220800 source:c:\users\drago\desktop\informatique\projet final\menu.c
+	"jeu.h"
+
+1557150174 source:c:\users\drago\desktop\informatique\projet final\tir.c
+	"jeu.h"
+
+1557151965 source:c:\users\drago\desktop\informatique\projet final\vaisseau.c
+	"jeu.h"
+
