@@ -25,5 +25,7 @@ Aller tout à droite de l'écran cause une collision.
 Problèmes:
 
 -Tirs non-existants
+
 -Scrolling mal fait + background mal choisi
+
 -Niveaux infinis
